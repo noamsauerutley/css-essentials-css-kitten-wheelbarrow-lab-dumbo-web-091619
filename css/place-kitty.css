@@ -1,6 +1,6 @@
 /* Select the image with a class of kitty-1 */
-#kitty-1 {
-  position: absolute;
+.kitty-1 {
+  position: wheelbarrow;
   z-index: 1;
   top: 276px;
   left: 129px;
